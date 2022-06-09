@@ -9,7 +9,7 @@ export default function App() {
       <h2>
         <Weather />
       </h2>
-      <p>GitHub Link: https://github.com/BRaci2/React-Week-4-Homework</p>
+      <p>GitHub Link: https://github.com/BRaci2/my-app</p>
     </div>
   );
 }
